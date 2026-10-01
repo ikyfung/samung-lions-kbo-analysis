@@ -49,4 +49,4 @@ Samsung Lions coaching and performance-analysis team.
 
 ## Project status
 
-In progress — project setup and data-source identification.
+In progress — validating KBO official game-level data and defining the collection workflow.
